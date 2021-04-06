@@ -1,0 +1,6 @@
+Detected(lang=fr, confidence=0.8910103)
+ 
+I will not look at the gold of the falling evening,
+Nor the sails in the distance descending towards Harfleur,
+And when I arrive, I will put on your grave
+A bunch of green holly and heather in bloom
